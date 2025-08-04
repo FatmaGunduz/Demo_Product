@@ -26,11 +26,6 @@ BusinessLayer
 
 PresentationLayer (UI)
 
-📂 Project Architecture
-bash
-Kopyala
-Düzenle
-
 DemoProduct/
 │
 ├── EntityLayer/         # Entity classes (AppUser, Product, Category, etc.)
