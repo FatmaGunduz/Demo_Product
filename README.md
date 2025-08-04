@@ -30,6 +30,7 @@ PresentationLayer (UI)
 bash
 Kopyala
 Düzenle
+
 DemoProduct/
 │
 ├── EntityLayer/         # Entity classes (AppUser, Product, Category, etc.)
@@ -41,6 +42,7 @@ DemoProduct/
 │   ├── ViewComponents/
 │   └── wwwroot/
 └── Demo_Product.sln
+
 🔑 Authentication & Authorization
 User Login: Managed via ASP.NET Core Identity SignInManager.
 
