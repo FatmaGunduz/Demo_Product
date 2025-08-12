@@ -4,7 +4,7 @@ DemoProduct is a product management system developed using ASP.NET Core MVC. The
 The application provides Admin and User roles with different permission levels, product CRUD operations, dashboard management, and dynamic content components.
 
 🏗 Technologies Used
-ASP.NET Core MVC 7.0
+ASP.NET Core MVC 8.0
 
 Entity Framework Core
 
