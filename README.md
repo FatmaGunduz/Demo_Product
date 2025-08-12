@@ -1,4 +1,6 @@
 📌 About the Project
+This project was developed by following the lessons of MuratYucedag.
+
 DemoProduct is a product management system developed using ASP.NET Core MVC. The project uses Identity for authentication and authorization, and follows a layered architecture to ensure flexibility and maintainability.
 
 The application provides Admin and User roles with different permission levels, product CRUD operations, dashboard management, and dynamic content components.
